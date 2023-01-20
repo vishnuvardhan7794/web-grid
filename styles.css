@@ -5,3 +5,21 @@
   height: 500px;
   width: 500px;
 }
+.child1{
+  background-color: red;
+}
+.child2{
+  background-color: black;
+}
+.child3{
+  background-color: aquamarine;
+}
+.child4 {
+  background-color: blueviolet;
+}
+.child5 {
+  background-color: brown;
+}
+.child6 {
+  background-color: chocolate;
+}
