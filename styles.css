@@ -1,0 +1,7 @@
+.parent {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  background-color: bisque;
+  height: 500px;
+  width: 500px;
+}
