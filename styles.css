@@ -1,17 +1,18 @@
 .parent {
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 1fr 1fr 1fr;
   background-color: bisque;
   height: 500px;
   width: 500px;
 }
-.child1{
+.child1 {
   background-color: red;
 }
-.child2{
+.child2 {
   background-color: black;
 }
-.child3{
+.child3 {
   background-color: aquamarine;
 }
 .child4 {
